@@ -130,7 +130,7 @@
     
     editormd.title        = editormd.$name = "Editor.md";
     editormd.version      = "1.5.0";
-    editormd.homePage     = "https://pandao.github.io/editor.md/";
+    editormd.homePage     = "https://markdown.eplus.dev";
     editormd.classPrefix  = "editormd-";
     
     editormd.toolbarModes = {
@@ -3434,7 +3434,7 @@
 
     // Emoji graphics files url path
     editormd.emoji     = {
-        path  : "http://www.emoji-cheat-sheet.com/graphics/emojis/",
+        path  : "https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/",
         ext   : ".png"
     };
 
